@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @XiaoPengYouCode
-- 👀 I’m interested in Learning
 - 🌱 I’m currently learning Coding
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me luzhongjin365@gmail.com
