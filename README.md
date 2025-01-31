@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @XiaoPengYouCode
-- 🌱 I’m currently learning Coding
-- 💞️ I’m looking to collaborate on github
-- 📫 How to reach me luzhongjin365@gmail.com
+- 🌱 I’m currently learning Rust
+- 📫 How to reach me <luzhongjin365@gmail.com>
 - ❤️ Learn more about me at <https://xiaopengyoucode.github.io/>
 
 <!---
